@@ -1,0 +1,24 @@
+{
+  "success": true,
+  "message": "Grievance history fetched successfully (static mock)",
+  "data": {
+    "regno": "CMOFF/J/2024/002677",
+    "history": [
+      {
+        "date": "2026-09-02",
+        "status": "Submitted",
+        "remarks": "Grievance registered."
+      },
+      {
+        "date": "2026-09-05",
+        "status": "In Progress",
+        "remarks": "Forwarded to the concerned department."
+      },
+      {
+        "date": "2026-09-10",
+        "status": "Resolved",
+        "remarks": "Issue marked as resolved."
+      }
+    ]
+  }
+}

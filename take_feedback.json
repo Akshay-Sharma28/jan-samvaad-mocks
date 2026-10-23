@@ -1,0 +1,9 @@
+{
+  "success": true,
+  "message": "Feedback submitted successfully (static mock)",
+  "data": {
+    "regno": "CMOFF/J/2026/123456",
+    "feedback_remarks": "Thank you for resolving the issue.",
+    "submitted": true
+  }
+}

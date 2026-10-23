@@ -1,0 +1,35 @@
+{
+  "notice": "Static mock data for mobile UI testing only. These are illustrative response shapes, not verified production API responses.",
+  "endpoints": [
+    {
+      "name": "Send OTP",
+      "method": "POST",
+      "mock_file": "send_otp.json"
+    },
+    {
+      "name": "Verify OTP",
+      "method": "POST",
+      "mock_file": "verify_otp.json"
+    },
+    {
+      "name": "Fetch Grievance List",
+      "method": "POST",
+      "mock_file": "fetch_grievance_list.json"
+    },
+    {
+      "name": "Fetch Grievance Details",
+      "method": "POST",
+      "mock_file": "fetch_grievance_details.json"
+    },
+    {
+      "name": "Fetch Grievance History",
+      "method": "POST",
+      "mock_file": "fetch_grievance_history.json"
+    },
+    {
+      "name": "Take Feedback",
+      "method": "POST",
+      "mock_file": "take_feedback.json"
+    }
+  ]
+}

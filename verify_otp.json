@@ -1,0 +1,10 @@
+{
+  "success": true,
+  "message": "OTP verified successfully (static mock)",
+  "data": {
+    "verified": true,
+    "mobile": "9000000000",
+    "regno": "CMOFF/J/2026/123456",
+    "token": "MOCK_BEARER_TOKEN"
+  }
+}

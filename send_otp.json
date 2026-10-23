@@ -1,0 +1,9 @@
+{
+  "success": true,
+  "message": "OTP sent successfully (static mock)",
+  "data": {
+    "mobile": "9000000000",
+    "regno": "CMOFF/J/2026/123456",
+    "send_type": "both"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "message": "Grievance list fetched successfully (static mock)",
+  "data": [
+    {
+      "regno": "CMOFF/J/2026/123456",
+      "subject": "Road repair request",
+      "description": "Road surface is damaged near the main market.",
+      "status": "In Progress",
+      "submitted_date": "2026-10-15",
+      "last_updated": "2026-10-21"
+    },
+    {
+      "regno": "CMOFF/J/2024/002677",
+      "subject": "Street light not working",
+      "description": "Street light is not working in the residential area.",
+      "status": "Resolved",
+      "submitted_date": "2026-09-02",
+      "last_updated": "2026-09-10"
+    },
+    {
+      "regno": "CMOFF/J/2026/000789",
+      "subject": "Water supply issue",
+      "description": "Irregular water supply in the neighborhood.",
+      "status": "Submitted",
+      "submitted_date": "2026-10-20",
+      "last_updated": "2026-10-20"
+    }
+  ]
+}

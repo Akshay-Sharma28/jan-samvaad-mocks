@@ -1,0 +1,14 @@
+{
+  "success": true,
+  "message": "Grievance details fetched successfully (static mock)",
+  "data": {
+    "regno": "CMOFF/J/2026/123456",
+    "subject": "Road repair request",
+    "description": "Road surface is damaged near the main market.",
+    "department": "Public Works",
+    "status": "In Progress",
+    "submitted_date": "2026-10-15",
+    "last_updated": "2026-10-21",
+    "remarks": "Inspection completed; repair work is scheduled."
+  }
+}
